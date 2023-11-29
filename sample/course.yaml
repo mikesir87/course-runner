@@ -1,0 +1,7 @@
+schema: 1
+title: Persisting data in containerized environments
+steps:
+  - ./intro
+  - ./background
+  - ./named-volumes
+  - ./bind-mounts
